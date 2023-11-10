@@ -14,4 +14,10 @@ Manga liste:
             Vinland Saga
             That Time I got Reincarnated as a Slime
             The Beginning After The End
-
+Tools:
+      Krita # drawing
+      Discord
+      Firefox
+      OBS studio
+      Wacom tablet tool # for pen support
+      
