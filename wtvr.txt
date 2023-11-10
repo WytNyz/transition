@@ -1,0 +1,12 @@
+tamotsu_fukuda # st
+@InkedLogic_2313
+inkedlogic.productions
+Ends in 99
+
+# Dofus secret answer
+  - trigger: ":dofus_secret_answer"
+    replace: "Doha is the secret answer"
+
+    alia.saddik0907
+
+   Alia_SADDIK@0907
