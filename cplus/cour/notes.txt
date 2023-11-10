@@ -1,0 +1,23 @@
+11/10/2023 [programmation structure VS POO]
+
+Les carateristiaues d'un bon logiciel ou application:
+  * Exactitude
+  * Robust
+  * Efficacite
+  * Portabilite
+  * Extensibilite (OOP only => Heritage)
+  * Reutilisablilite (OOP only => Polymorphisme)
+
+Prog structure:
+  programme = algo + structures de donnees
+
+Prog Orionte Objet:
+  est un ensemble d'objet qui communique entre eux
+  objet = Methodes (communication) + donnees (attributes)
+  se base sure:
+    Encapsulation => protection des donnees
+    Heritage => Reutilisablilite
+    Polymorphisme => Extensibilite
+
+Methodes => interface (la partie visible) de la classe a l'exterieur
+         => seuls les methodes de la classe qu'ont le droit d'acces au attributes

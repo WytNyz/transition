@@ -1,0 +1,6 @@
+https://github.com/firstcontributions/first-contributions # for git
+https://github.com/utilForever/game-developer-roadmap # Game dev roadmap
+https://frontendmasters.com/courses/algorithms/ # ThePrimeagen DSA course
+https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Poppins-Poppins # UI tool
+https://www.iconfinder.com/ # for free vector based illustrations
+https://www.theodinproject.com # the main course i should take
