@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=68z11VAYMS8&list=PLTxm8i3XeazgNwIUy_OvThWFjO4x2L
 https://www.youtube.com/watch?v=fO-RBHvVEcc # inderstanding the dotfiles
 THEEEEEEEME = Catppussin
 https://www.reddit.com/r/unixporn/comments/17s4a1o/hyprland_mocha_one_love_catppuccin/ # rice example
+https://github.com/D3Ext/aesthetic-wallpapers/tree/main # aesthetic-wallpapers
 
 https://www.youtube.com/watch?v=_JYIAaLrwcY # why not installation long vid manually
 
